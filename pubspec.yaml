@@ -1,0 +1,12 @@
+name: curve25519
+version: 0.0.1
+repository: https://github.com/richard-kimble/curve25519
+description: >-
+  Pure dart implementation of group operations on Curve25519.
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dev_dependencies: 
+  test: ^1.17.3
+dependencies: 
+  convert: ^3.0.0
