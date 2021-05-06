@@ -1,4 +1,4 @@
-name: curve25519
+name: curve25519_kimble
 version: 0.0.1
 repository: https://github.com/richard-kimble/curve25519
 description: >-
